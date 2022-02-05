@@ -5,7 +5,7 @@ spring:
     config:
       server:
         git:
-          uri: https://github.com/andersonfreitas21/environment-variable-repo.git
+          uri: https://github.com/Andersonfreitas21/techEFX-spring-cloud/environment-variable-repo.git
 
 
 server:
