@@ -5,8 +5,6 @@ spring:
     config:
       server:
         git:
-          uri: https://github.com/Andersonfreitas21/techEFX-spring-cloud/environment-variable-repo.git
-
-
-server:
-  port: ${port:8888}
+          uri: https://github.com/techefx/environment-variable-repo.git
+  server:
+    port: ${port:8888}
